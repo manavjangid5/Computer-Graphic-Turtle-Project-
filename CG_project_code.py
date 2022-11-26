@@ -6,7 +6,6 @@ Speed = 10          # Sampling times of Bezier function
 Xh, Yh = 0, 0       # Record the handle of the previous Bessel function
 te.pensize(4)
 te.speed(Speed)
-te.tracer(10)
 
 def move_to(point):
     te.penup()
@@ -72,9 +71,7 @@ def line_between(source, destination):
     te.goto(destination)
 
 def main():
-    """
-    Layer 1
-    """
+    
     ############ Head With Ears ###############
     te.fillcolor("#F6D02F")
     move_to((84.0,38.0))
