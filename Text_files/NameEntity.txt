@@ -1,0 +1,890 @@
+final-year DATE
+two CARDINAL
+Department of Computer Science and Engineering IIT Delhi ORG
+India GPE
+Ian Mackie PERSON
+cole PRODUCT
+Polytechnique WORK_OF_ART
+France GPE
+University of Sussex ORG
+UK GPE
+Samson Abramsky ORG
+University of Oxford ORG
+Chris Hankin PERSON
+Imperial College ORG
+London GPE
+Dexter Kozen PERSON
+Cornell University ORG
+Andrew Pitts PERSON
+University of Cambridge ORG
+Hanne Riis Nielson PERSON
+Technical University of Denmark ORG
+Denmark Steven Skiena PERSON
+Stony Brook University ORG
+USA GPE
+David Zhang PERSON
+The Hong Kong Polytechnic University ORG
+Hong Kong GPE
+1863-7310 DATE
+978 CARDINAL
+10.1007/978 CARDINAL
+British NORP
+Congress Control Number ORG
+2008933221 DATE
+1988 DATE
+the Copyright Licensing Agency ORG
+Software Engineering ORG
+one CARDINAL
+today DATE
+a few months DATE
+first ORDINAL
+Software ORG
+Wayne Wheeler PERSON
+Shikha ORG
+Sumedha PERSON
+Sunanda GPE
+odd hours TIME
+approximately 10,000 CARDINAL
+Java PERSON
+5000 CARDINAL
+LOC ORG
+1000 CARDINAL
+as low as 100 CARDINAL
+10 CARDINAL
+a few thousand CARDINAL
+only about a thousand CARDINAL
+Brooks PERSON
+about 10 CARDINAL
+16 CARDINAL
+three CARDINAL
+thousands CARDINAL
+person-months DATE
+KLOC ORG
+few hundred CARDINAL
+3000 MONEY
+15,000 MONEY
+between $ MONEY
+15 MONEY
+50,000 CARDINAL
+between $150,000 MONEY
+Schedule ORG
+Today DATE
+55 CARDINAL
+six CARDINAL
+Usability ORG
+KLOC LAW
+One CARDINAL
+Software PERSON
+zero CARDINAL
+80:20 TIME
+70:30 TIME
+60:40 TIME
+tens of thousands CARDINAL
+Table PRODUCT
+a few hundred CARDINAL
+a few hundred thousand CARDINAL
+up to CARDINAL
+30 to 40% PERCENT
+14 CARDINAL
+thousand CARDINAL
+10E CARDINAL
+52 CARDINAL
+Q&P ORG
+RUP ORG
+XP ORG
+74 CARDINAL
+Linear ORG
+First ORDINAL
+a few years DATE
+40 CARDINAL
+Second ORDINAL
+Third ORDINAL
+third ORDINAL
+fourth ORDINAL
+4 CARDINAL
+51 CARDINAL
+63 DATE
+IBM ORG
+the Unified Modeling Language WORK_OF_ART
+UML ORG
+four CARDINAL
+second ORDINAL
+60 CARDINAL
+59 CARDINAL
+2 CARDINAL
+T days DATE
+1 CARDINAL
+3 CARDINAL
+the 1990s DATE
+weeks DATE
+a few weeks DATE
+Chapter 7 LAW
+Fourth ORDINAL
+only one CARDINAL
+a day DATE
+up to about 20 CARDINAL
+ten CARDINAL
+57 CARDINAL
+2.12 CARDINAL
+linear ORG
+IEEE ORG
+53 CARDINAL
+the Software Requirements Specification ORG
+SRS GPE
+SRS ORG
+12 CARDINAL
+less than one CARDINAL
+90% PERCENT
+less than one second DATE
+98% PERCENT
+Jacobson PERSON
+56 CARDINAL
+24 CARDINAL
+UC ORG
+ATM ORG
+the University Auction System ORG
+UAS ORG
+system—“put CARDINAL
+UC3 ORG
+UC GPE
+Primary Actor PERSON
+Main Success Scenario FAC
+max PERSON
+the HR department ORG
+SSN ORG
+86 CARDINAL
+DFD ORG
+weekly DATE
+hours TIME
+DFD GPE
+OR ORG
+28 CARDINAL
+years DATE
+ERD ORG
+ER ORG
+ER GPE
+Supervisor ORG
+Employee GPE
+27 CARDINAL
+more than 250 CARDINAL
+5 CARDINAL
+about 80 CARDINAL
+about 23% PERCENT
+Chapter FAC
+the A-33% PERCENT
+about 45% PERCENT
+20% PERCENT
+about two-thirds CARDINAL
+SIZE/P person- months ORG
+KLOC PERSON
+Watson PERSON
+Felix PERSON
+81 CARDINAL
+more than 60 CARDINAL
+IBM Federal Systems Division ORG
+4000 CARDINAL
+467,000 CARDINAL
+SIZE ORG
+13 CARDINAL
+COCOMO PRODUCT
+.88 ORG
+1.00 CARDINAL
+1.15 CARDINAL
+1.40 CARDINAL
+Table ORG
+1(EAF DATE
+EAF ORG
+58 CARDINAL
+months DATE
+Person ORG
+5-months DATE
+72 CARDINAL
+The IBM Federal Systems Division ORG
+COCOMO ORG
+person- months DATE
+50 CARDINAL
+Rayleigh GPE
+71 CARDINAL
+about a quarter CARDINAL
+about half CARDINAL
+the remaining quarter DATE
+19% PERCENT
+62% PERCENT
+18% PERCENT
+QC PERSON
+Reviews ORG
+QC ORG
+19 CARDINAL
+17 CARDINAL
+Boehm ORG
+11 CARDINAL
+18 CARDINAL
+45 DATE
+Japan GPE
+California GPE
+45 CARDINAL
+RE ORG
+Prob(UO GPE
+43 CARDINAL
+75 CARDINAL
+Size ORG
+daily DATE
+that day DATE
+100% PERCENT
+the Microsoft Project ORG
+Status ORG
+the next week DATE
+every few weeks DATE
+Microsoft Project ORG
+50-days DATE
+about 2-months DATE
+approximately 5 CARDINAL
+140 days DATE
+about 32 CARDINAL
+only three CARDINAL
+6 CARDINAL
+23 DATE
+54 DATE
+23 CARDINAL
+module B PERSON
+C&C ORG
+C&C DATE
+C&C EVENT
+C&C GPE
+TCP ORG
+IP ORG
+HTML ORG
+the Dean of Students ORG
+Dean PERSON
+76 DATE
+more than one CARDINAL
+Sequencer PERSON
+Sorting GPE
+Some years DATE
+Registration PERSON
+Figure GPE
+Publish-Subscribe Style ORG
+mouse click PERSON
+CORBA ORG
+Chapter PERSON
+29 CARDINAL
+Chapter 5 LAW
+Two CARDINAL
+about one CARDINAL
+79 CARDINAL
+88 CARDINAL
+Complexity	Connection	Communication ORG
+OO ORG
+30 CARDINAL
+Three CARDINAL
+C1 CARDINAL
+B. NORP
+B(or GPE
+Coincidental ORG
+Modules PERSON
+compute square root FAC
+Bertrand Meyer ORG
+Client GPE
+Printer NORP
+Printer PERSON
+the Liskov Substitution Principle ORG
+65 CARDINAL
+the years DATE
+Graphical GPE
+B. B PERSON
+(& n ORG
+D. NORP
+Chapter 3 LAW
+First-Level Factoring Having ORG
+recent years DATE
+38 CARDINAL
+15 CARDINAL
+62 CARDINAL
+77 CARDINAL
+Liskov PERSON
+OO programming ORG
+B. Hence GPE
+B. Suppose PERSON
+x.O PERSON
+35 CARDINAL
+6.12 CARDINAL
+IITKPerson ORG
+UnderGraduate ORG
+PostGraduate ORG
+Employee PERSON
+Institute ORG
+6.14 CARDINAL
+Address ORG
+BiometricInfo ORG
+John PERSON
+Sequence and Collaboration Diagrams Class ORG
+6.15 CARDINAL
+GradReport ORG
+Student ORG
+CourseTaken ORG
+6.16 CARDINAL
+node GPE
+CPU ORG
+6.18 CARDINAL
+Order PERSON
+Defining Internal Classes and Operations ORG
+Structured Design ORG
+File ORG
+Counter ORG
+Counter PERSON
+6.19 CARDINAL
+History PERSON
+Btree ORG
+C++ LANGUAGE
+6.20 CARDINAL
+// Sets ORG
+Invokes ORG
+bool lookup ORG
+C++ DATE
+about 240 CARDINAL
+Portfolio, Investment ORG
+Investments ORG
+Withdrawal ORG
+Deposit ORG
+6.21 CARDINAL
+6.22 CARDINAL
+Portfolio PERSON
+the transaction int month DATE
+// month DATE
+compute(initVal WORK_OF_ART
+totWithdrawls GPE
+Compute ORG
+about 470 CARDINAL
+42 CARDINAL
+84 CARDINAL
+at least one CARDINAL
+Network Metrics     Network ORG
+87 CARDINAL
+48 CARDINAL
+49 DATE
+Dc ORG
+89 CARDINAL
+Dc PERSON
+21 DATE
+64 CARDINAL
+OOD ORG
+21 CARDINAL
+M1 CARDINAL
+ci PERSON
+DIT ORG
+Classes PERSON
+Weinberg PERSON
+82 CARDINAL
+five CARDINAL
+the 1970s DATE
+S2 PRODUCT
+S2 GPE
+P2 PRODUCT
+S1;S2 ORG
+Q2 CARDINAL
+Pascal PERSON
+FORTRAN ORG
+Control Constructs ORG
+User-Defined Types ORG
+the day of the week DATE
+clearer than defining ORG
+each day DATE
+Module Size PERSON
+more than 100 CARDINAL
+Module Interface PERSON
+more than five CARDINAL
+Switch Case with Default ORG
+NULL ORG
+Empty Catch ORG
+InputFile ORG
+0 CARDINAL
+An    Exception WORK_OF_ART
+BUFFER ORG
+strcpy    PERSON
+Trusted Data Sources ORG
+Day GPE
+EventHandler ORG
+PI ORG
+MAX ITERATIONS ORG
+getValue ORG
+Boolean NORP
+isStatus ORG
+Exception ORG
+less than 80 CARDINAL
+English LANGUAGE
+Test-Driven Development ORG
+8 CARDINAL
+TDD ORG
+7 CARDINAL
+UNIX ORG
+Windows PERSON
+deltas ORG
+cvs update command ORG
+many years DATE
+Makefile PRODUCT
+34 CARDINAL
+36 CARDINAL
+Switch Statements ORG
+Too Much Communication Between ORG
+N ORG
+Declare ORG
+CuTest ORG
+Cutest ORG
+78 CARDINAL
+CUT ORG
+Junit ORG
+Junit GPE
+CUTtest LOC
+TestRunner ORG
+True(boolean NORP
+AssertFalse(boolean NORP
+Matrix PERSON
+Matrix ORG
+// Sets # ORG
+# CARDINAL
+2D CARDINAL
+Matrix(Matrix PERSON
+9 CARDINAL
+8 DATE
+25 CARDINAL
+2 DATE
+i++ CARDINAL
+j<2 ORG
+162 CARDINAL
+261 CARDINAL
+127 CARDINAL
+207 CARDINAL
+DD GPE
+39 CARDINAL
+44 DATE
+83 CARDINAL
+Fagan PERSON
+31 DATE
+32 CARDINAL
+at least three CARDINAL
+less than two hours TIME
+8/0.250 CARDINAL
+3/0.25 CARDINAL
+about 1 CARDINAL
+about 180 CARDINAL
+250 CARDINAL
+Halstead ORG
+46 CARDINAL
+47 CARDINAL
+McCabe ORG
+program module PERSON
+26 CARDINAL
+Halstead’s Measure Halstead ORG
+N1 CARDINAL
+N2 CARDINAL
+at least two CARDINAL
+n1/- ORG
+N2/n. MONEY
+85 CARDINAL
+20 CARDINAL
+≤ ORG
+SUT ORG
+may last many weeks DATE
+the input module ORG
+Deliverables PERSON
+hundreds or thousands CARDINAL
+68 CARDINAL
+Max PERSON
+IEQ2 ORG
+IEQ3 ORG
+0.0 CARDINAL
+1.0 MONEY
+1.0 CARDINAL
+valid inputs PERSON
+0.1 CARDINAL
+1.1 CARDINAL
+max + 1 PERSON
+6n+ CARDINAL
+seven CARDINAL
+7n CARDINAL
+70 CARDINAL
+nighttime TIME
+the weekend DATE
+3,125 CARDINAL
+n − PERSON
+− GPE
+− PERSON
+128M MONEY
+512M MONEY
+A-C ORG
+227/3=. CARDINAL
+22 CARDINAL
+up to five CARDINAL
+69 CARDINAL
+TT ORG
+T. ORG
+ATP ORG
+ATP DATE
+node j. PERSON
+G ORG
+73 CARDINAL
+x=0 PERSON
+100 CARDINAL
+200 CARDINAL
+200 MONEY
+less than 100% PERCENT
+90% to 100% PERCENT
+MTTF ORG
+80 CARDINAL
+33 CARDINAL
+67 CARDINAL
+61 CARDINAL
+500 CARDINAL
+200/220 PERSON
+just about 90% PERCENT
+220 CARDINAL
+480/500 ORG
+96% PERCENT
+DRE GPE
+Defect ORG
+NL ORG
+BL ORG
+41 CARDINAL
+every day DATE
+0 DATE
+1 DATE
+two hours TIME
+F. B. Abreu PERSON
+R. Carapuca PERSON
+Journal of Systems ORG
+26(1):87–96 GPE
+Jan. 1994 DATE
+V. R. Basili PERSON
+IEEE Press ORG
+1980 DATE
+L. Briand PERSON
+W. L. Melo PERSON
+IEEE Transactions on Software ORG
+22(10):751–761, DATE
+Oct. 1996 DATE
+A. Turner PERSON
+IEEE Transactions on Software Engineering ORG
+SE-1(4 GPE
+Dec. 1975 DATE
+D. M. Weiss PERSON
+5th Int ORG
+314–323 CARDINAL
+1981 DATE
+L. Bass PERSON
+P. Clements PERSON
+Rick Kazman PERSON
+Practice, Second Edition ORG
+Addison-Wesley Professional ORG
+2003 DATE
+K. Beck ORG
+Extreme Programming Explained ORG
+Addison-Wesley ORG
+2000 DATE
+Test Driven Development ORG
+2002 DATE
+R.V. GPE
+Model, Patterns ORG
+Tools ORG
+1999 DATE
+IEEE Transactions on Computers ORG
+Dec. 1976 DATE
+B. Boehm PERSON
+IEEE Computer Society ORG
+1989 DATE
+B. W. Boehm PERSON
+Software Engineering Economics ORG
+Prentice Hall, ORG
+Englewood Cliffs GPE
+NJ ORG
+10(1):135–152 DATE
+Jan. 1984 DATE
+IEEE Computer ORG
+43–57, DATE
+Sept. 1987 DATE
+G. Booch PERSON
+Object-Oriented Analysis ORG
+Design ORG
+Benjamin PERSON
+Publishing Company ORG
+1994 DATE
+F. Brooks PERSON
+1975 DATE
+N. Brown PERSON
+IEEE Software PERSON
+July 1996 DATE
+R.N. Charette PERSON
+Management ORG
+Graw Hill PERSON
+E. Chen PERSON
+SE-4:187–194 GPE
+May 1978 DATE
+S. R. Chidamber PERSON
+C. F. Kemerer PERSON
+20(6):476–493 DATE
+June 1994 DATE
+T.S. Chow ORG
+SE-4(3):178–187 GPE
+1978 DATE
+F. Bachmann PERSON
+D. Garlan NORP
+J. Ivers ORG
+R. Little ORG
+R. Nord PERSON
+J. Stafford PERSON
+A. Cockburn PERSON
+2001 DATE
+D.M. Cohen PERSON
+S.R. Dalal PERSON
+M.L. Fredman PERSON
+G.C. Patton ORG
+AETG ORG
+23(7):437–443, 1997 DATE
+S. D. Conte PERSON
+H. E. Dunsmore PERSON
+V. Y. Shen PERSON
+Models WORK_OF_ART
+Benjamin/Cummings Publishing Company ORG
+1986 DATE
+J. S. Davis PERSON
+Software Technology ORG
+31(9):472–476 CARDINAL
+Nov. 1989 DATE
+T. DeMarco PERSON
+Structured Analysis ORG
+Yourdon Press ORG
+1979 DATE
+L. Dobrica PERSON
+E. Niemela PERSON
+28(7):638–653 ORG
+J. Eder PERSON
+G. Kappel PERSON
+M. Schrefl PERSON
+University of Klagenfurt ORG
+M. E. Fagan PERSON
+IBM System Journal ORG
+3):182–211, 1976 DATE
+12(7):744–751 DATE
+July 1986 DATE
+W. Farr PERSON
+M. R. Lyu PERSON
+Software Reliability Engineering ORG
+71–117 CARDINAL
+McGraw Hill ORG
+1996 DATE
+S. I. Feldman PERSON
+Software Practice ORG
+Experience GPE
+9(3):255–265, March 1979 DATE
+M. Fowler PERSON
+UML Distilled ORG
+K. Beck PERSON
+J. Brant PERSON
+W. Opdyke PERSON
+D. Roberts PERSON
+D. P. Freedman PERSON
+G. M. Weinberg PERSON
+Walkthroughs ORG
+Technical Reviews—Evaluating Programs PERSON
+Projects ORG
+1990 DATE
+E. Gamma PERSON
+R. Helm PERSON
+R. Johnson PERSON
+J. Vlissides ORG
+1995 DATE
+T. Gilb PERSON
+D. Graham PERSON
+Software Inspection ORG
+1993 DATE
+H. Gomma PERSON
+D. B. H. Scott PERSON
+Fifth Int ORG
+333–341 CARDINAL
+J. Goodenough ORG
+S. L. Gerhart PERSON
+S. E. Goodman PERSON
+S. T. Hedetniemi PERSON
+the Design and Analysis of Algorithms ORG
+McGraw-Hill ORG
+1977 DATE
+R. Grady PERSON
+Program ORG
+Prentice Hall ORG
+1987 DATE
+R. B. Grady PERSON
+T. V. Slack PERSON
+48–57, July 1994 DATE
+E.M. Hall PERSON
+1998 DATE
+M. Halstead PERSON
+North-Holland GPE
+W. Harrison PERSON
+K. Magel PERSON
+R. Kluczny PERSON
+A. DeKock PERSON
+79, Sept. 1982 DATE
+S. Henry PERSON
+7(5):510–518, 1981 DATE
+14(6):561–573, DATE
+June 1984 DATE
+C. A. R. Hoare PERSON
+ACM ORG
+12(3):335–355 CARDINAL
+1969 DATE
+IBM-Rational ORG
+IBMwebsite ORG
+Technical Report ORG
+1471-2000 DATE
+International Standards Organization ORG
+I. Jacobson PERSON
+1992 DATE
+CMM ORG
+Practice—Processes for Executing Software Projects ORG
+Infosys ORG
+Software Project Management ORG
+P. Jalote PERSON
+A. Palit PERSON
+P. Kurien PERSON
+Computers GPE
+Vol GPE
+62 DATE
+67–103 CARDINAL
+2004 DATE
+V. T. Peethamber PERSON
+The Journal of Systems ORG
+70:117–127 CARDINAL
+S.H. Kan. Metrics ORG
+Models in Software Quality Engineering ORG
+Wesley PERSON
+T. Korson PERSON
+J. D. Gregor ORG
+33(9):40–60 ORG
+Sept. 1990 DATE
+P. Kruchten PERSON
+W. Lie PERSON
+23(2):111–122, 1993 DATE
+SIGPLAN Notices ORG
+23(5 CARDINAL
+May 1988 DATE
+B. Meyer ORG
+Prentice Hall FAC
+J. D. Musa, A. Iannino PERSON
+K. Okumoto PERSON
+Software Reliability— Measurement, Prediction, Application PERSON
+G. Myers PERSON
+The Art of Software Testing PERSON
+Wiley-Interscience ORG
+New York GPE
+J. Offutt PERSON
+S. Liu, A. Abdurazik PERSON
+P. Ammann PERSON
+The Journal of Software Testing ORG
+Reliability ORG
+13(1):25–53, March 2003 DATE
+M.S. GPE
+Crosstalk GPE
+Oct 1997 DATE
+L. H. Putnam PERSON
+SE-4:345–361 GPE
+July 1978 DATE
+W. Myers PERSON
+Measurement WORK_OF_ART
+1997 DATE
+S. Rapps PERSON
+E. J. Weyuker PERSON
+11(4):367–375 DATE
+Apr. 1985 DATE
+W. W. Royce PERSON
+Proc DATE
+9th ORDINAL
+IEEE Wescon GPE
+1970 DATE
+328–338 CARDINAL
+SEI ORG
+Software Engineering Institute ORG
+M. Shaw PERSON
+Emerg- GPE
+Discipline PERSON
+M. D. Smith PERSON
+D. J. Robson PERSON
+6th CARDINAL
+272–282 CARDINAL
+Nov. 1990 DATE
+Journal of Object-Oriented Programming ORG
+45–53, June 1992 DATE
+W. P. Stevens PERSON
+G. J. Myers PERSON
+L. Constantine PERSON
+Structured ORG
+IBM Systems Journal ORG
+13(2 CARDINAL
+1974 DATE
+K. S. Trivedi PERSON
+Computer Science Applications ORG
+C. Watson PERSON
+C. Felix PERSON
+16(1 CARDINAL
+Jan. 1977 DATE
+E. L. Schulman PERSON
+16(1):70–77, 1974 DATE
+E. F. Weller PERSON
+three years DATE
+38–53 CARDINAL
+Sept. 1993 DATE
+N. Wirth PERSON
+14(4):221–227, April 1971 DATE
+M. Woodward PERSON
+M. Hennell PERSON
+Jan. 1979 DATE
+R. T. Yeh PERSON
+P. Zave PERSON
+68(9):1077–1088 DATE
+Sept. 1980 DATE
+B. H. Yin PERSON
+J. W. Winchester PERSON
+Notes PRODUCT
+3:45–52 DATE
+E. Yourdon PERSON
+W. M. Zage PERSON
+D. M. Zage PERSON
+75–81 DATE
+July 1993 DATE
+117 CARDINAL
+240 CARDINAL
+24 DATE
+Fault ORG
+112 CARDINAL
+181 CARDINAL
+Waterfall ORG
+Dynamic NORP
+147 CARDINAL
+Estimation Encapsulation ORG
+143 CARDINAL
+Functionality ORG
+17 DATE
+186 CARDINAL
+187 CARDINAL
+142 CARDINAL
+174 CARDINAL
+18 DATE
+Analysis Problem ORG
+Project scheduling Project ORG
+33 DATE
+25 DATE
+Analysis Requirement ORG
+63 CARDINAL
+80 DATE
+92 CARDINAL
+18-mode QUANTITY
+241 CARDINAL
+Reliability Software ORG
+37 DATE
+41 DATE
+66 CARDINAL
+Structure ORG
+132 CARDINAL
+137 CARDINAL
+230 CARDINAL
+UML Unit ORG
+204 CARDINAL
+229 CARDINAL

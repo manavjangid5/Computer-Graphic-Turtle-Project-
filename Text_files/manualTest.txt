@@ -1,0 +1,55 @@
+final-year DATE
+two CARDINAL
+Department of Computer Science and Engineering IIT Delhi ORG
+India GPE
+Ian Mackie PERSON
+cole PERSON
+Polytechnique WORK_OF_ART
+France GPE
+University of Sussex ORG
+UK GPE
+Samson Abramsky PERSON
+University of Oxford ORG
+Chris Hankin PERSON
+Imperial College ORG
+London GPE
+Dexter Kozen PERSON
+Cornell University ORG
+Andrew Pitts PERSON
+University of Cambridge ORG
+Hanne Riis Nielson PERSON
+Technical University of Denmark ORG
+Denmark Steven Skiena PERSON
+Stony Brook University ORG
+USA GPE
+David Zhang PERSON
+The Hong Kong Polytechnic University ORG
+Hong Kong GPE
+1863-7310 CARDINAL
+978 CARDINAL
+10.1007/978 CARDINAL
+British NORP
+Congress Control Number ORG
+2008933221 CARDINAL
+1988 DATE
+the Copyright Licensing Agency ORG
+Software Engineering ORG
+one CARDINAL
+today DATE
+a few months DATE
+two CARDINAL
+first ORDINAL
+Wayne Wheeler PERSON
+Shikha PERSON
+Sumedha PERSON
+Sunanda PERSON
+odd hours TIME
+approximately 10,000 CARDINAL
+Java LANGUAGE
+5000 CARDINAL
+LOC ORG
+1000 CARDINAL
+as low as 100 CARDINAL
+10 CARDINAL
+a few thousand CARDINAL
+only about a thousand CARDINAL

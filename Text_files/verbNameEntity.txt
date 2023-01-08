@@ -1,0 +1,17 @@
+Freezing PERSON
+outsource ORG
+XP ORG
+transform ORG
+views ORG
+first ORDINAL
+Software ORG
+facilitate ORG
+Develop ORG
+Parse ORG
+Switch ORG
+prologue ORG
+node GPE
+min ORG
+fixes ORG
+n. ORG
+max PERSON

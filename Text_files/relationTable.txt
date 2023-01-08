@@ -1,0 +1,58 @@
+
+DOMAINS:
+
+Department of Computer Science and Engineering IIT Delhi    1
+India   2
+Ian Mackie  3
+cole Polytechnique  4
+France  5
+University of Sussex    6
+UK  7
+Samson Abramsky    8
+University of Oxford    9
+Chris Hankin    10
+Imperial College    11
+London  12
+Dexter Kozen    13
+Cornell University  14
+Andrew Pitts    15
+University of Cambridge 16
+Hanne Riis Nielson  17
+Technical University of Denmark    18
+Denmark Steven Skiena   19
+Stony Brook University    20
+USA    21
+David Zhang    22
+The Hong Kong Polytechnic University    23
+Hong Kong    24
+Software Engineering    25
+one    26
+sumedha    27
+shikha    28
+sunanda    29
+approximately 10000    30
+Java    31
+5000    32
+1000    33
+LOC    34
+as low as 100    35
+
+
+CLASSES:
+
+ORG={1,4,6,9,11,14,16,18,20,23,25,34}
+PERSON={3,8,10,13,15,17,19,22,27,28,29}
+GPE={2,5,7,12,21,24}
+CARDINAL={26,30,32,33,35}
+LANGUAGE={31}
+
+
+RELATIONS:
+
+situated_in = {<1,2>, <4,5>, <6,7>, <9,7>, <12,7>, <11,12>, <14,21>, <16,7>, <20,21>, <23,24>}
+works_at = {<3,4>, <8,9>, <10,11>, <13,14>, <15,16>, <17,18>, <19,20>, <22,23>}
+remains = {<25,26>}
+chapter_problem_domain_of = {<26,25>}
+daughter_of = {<27,28>, <29,28>}
+lines_of = {<30,31>}
+value_of = {<32,34>, <33,34>, <35,34>}
